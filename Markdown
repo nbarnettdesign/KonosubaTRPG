@@ -1,0 +1,2656 @@
+# God's Blessing on this Wonderful World! TRPG
+
+You, reading this book right now, have probably read ‘God&#39;s Blessing on this Wonderful World!’, and have picked up this book
+thinking it’s a related publication. Or, you’ve already played various “TRPGs”, and reached out your hand thinking it’s a new
+TRPG.
+
+And you wouldn’t be wrong either way.
+That’s because this book is a new TRPG (tabletop role-playing game) which uses ‘God&#39;s Blessing on this Wonderful World!’
+(‘Konosuba’ below), sold by Kadokawa Sneaker Bunko.
+
+#### What is a TRPG?
+
+The GM prepares the scenario that will be played, and each player is in charge of a Player Character (Shortened to PC below) , 
+a character that exists in the game world.
+
+The basic flow of a TRPG is as follows.
+The GM uses a prepared scenario, and explains just what kind of situation the PCs are in. The players then think about the
+decisions and actions their PC would make, and then tells that too the GM.
+
+The GM then compares that to the current situation, decides the outcome of the PC’s action, and tells the newly born situation
+that arose from that action to the players (By using the rules, data, and such recorded in this book, the actions of PCs can
+succeed or fail).
+
+There is no winning or losing a TRPG. But, if you really want to know how to achieve victory, it would probably be when all the
+participants including the GM are having fun.
+There may be times when your PC ends up dying. There may also be times when the adventure doesn’t go well. However, if you’re able to enjoy the story, that’s victory. A game where you enjoy creating stories with your friends --- that’s a TRPG.
+
+#### What is ‘God's Blessing on this Wonderful World!'?
+In ‘Konosuba TRPG’, players become adventurers in the ‘Konosuba’ world, and complete requests (Quests) from the adventurer’s
+guild, like monster slaying or dungeon exploration. Adventurers are split into various “Classes” like the knight, who fights with
+weapons, or the wizard, who fights with magic.
+
+#### What you need to play 'Konosuba TRPG'
+In order to play ‘Konosuba TRPG’, you need to prepare several things
+- **Participants** - In order to play ‘Konosuba TRPG’, a GM plus several people (about 3~5) are required.
+
+- **Six Sided Dice** - Each person should have around 3~5 dice prepared. Depending on the situation, more than 10 may be required, so the GM
+should have many prepared so they aren’t in trouble when the time comes.
+
+- ** Writing impliments ** - Writing Implements include things like pencils and mechanical pencils, which can be erased by an eraser. Of course, this is
+required for all participants. The GM also needs red, and black ballpoint pens.
+
+- ** Rulebook** - This book. Each player should have a rulebook if possible, in order for easy referencing of data and such.
+
+- ** Character Sheets** - One for Each Player
+
+- ** Record Sheets and Session Sheets**
+
+
+<style>
+  .phb{
+    width : 210mm;
+    height : 296.8mm;
+  }
+</style>
+\page
+
+## What Makes a Character
+In order to play ‘Konosuba TRPG’, you must create a player character (PC). The PC you create is an adventurer in the world of ‘Konosuba’. That PC is your alter ego, and along with the PC’s the other players have made in the same way, you go on various adventures. 
+
+PC’s have several attributes that represent their physical and mental strength, abilities you take called skills, and equipped weapons or armor, each represented by data. 
+
+Creating a PC is nothing other than deciding what this data should be. However, PC’s aren’t represented from just this numerical data. 
+
+Settings like name, sex, age, lineage or experiences are also
+included, forming a single character.
+
+For that, we’ll first explain the order for forming a PC.
+
+### Race
+In the base rulebook of ‘Konosuba TRPG’, you can choose one race from three races.
+
+
+- A **“Reincarnated”**, who died in the real world of earth, and was reincarnated into the world of ‘Konosuba’ from a goddesses power.
+
+
+- A **“Native”**, who was born in and lives in the world of ‘Konosuba’.
+
+
+- And a **“Crimson Demon”**, a race with magical power.
+
+Things like the PC’s outward appearing features, and innate abilities are decided by race. Also, each race has different aptitudes
+for the below-mentioned classes, so you should probably think about classes as well, when selecting a race. Descriptions for each race are written under 'Races' below, so you should use that as a reference.
+
+---
+
+### Class
+That which represents a PC’s role is a 【Class】, like the knight who uses a sword to fight, the priest who uses healing magic, and the wizard who uses offensive magic. PC’s must pick one class.
+
+---
+### Ability Score
+Just like in the real world, the people of ‘Konosuba’ also have strong people, weak people, dexteritous people, clumsy people, and such, with each person having their own characteristics.
+
+【Ability scores】are the data that represents those physical and mental fortes and weaknesses. Ability scores are divided into the seven categories of【Strength】,【Dexterity】,【Agility】,【Intelligence】,【Perception】,【Spirit】,and【Luck】
+
+Each have their own value. The minimum value is zero, and there is no maximum value. The higher this value, the more you excel in the field related to the ability score. Each kind of ability score and their meanings are as follows:
+
+----
+
+**Strength:** Represents things like how strong the character is, how tough their muscles are, and how high their physical fitness is. This includes: 
+- Determines the max value of HP
+- Lifts heavy things. Also, continuing to carry something picked up.
+- Endures bodily torment.
+- Used in jumping, climbing and swimming.
+
+**Dexterity:** Represents how nimble a character is with their hands, for using things like weapons and tools.
+- Performs fine work like repairing, enhancement, or putting things together.
+- Catch or grab something moving swiftly.
+- Put on a disguise.
+- Used for attack target hit checks that use weapons and such.
+
+**Agility:** Represents things like how a character holds themselves, how sharp their fast movement are, and their body’s sense of balance.
+- Cross a swaying suspension bridge, or passing through a narrow place.
+- Avoid a falling object.
+- Grab a fleeing opponent. Oppositely, fleeing while avoiding being grabbed.
+- Avoid obstacles.
+
+**Intelligence:** Represents things like how intelligent a character is, how knowledgeable they are, and their ability to remember. However, this has nothing to do with common sense. This ability only represents having a high degree, or wide range of knowledge.
+- Have knowledge of things like topography, history, past incidents, special technologies or other areas of study.
+- Used in magic checks and enemy identification
+
+**Perception:** Represents how sharp a character’s senses are. Not limited to just the five senses, but also includes things like inspirations like a sixth sense, and premonitions.
+- Track, and procure information from traces left behind.
+- Grasp the situation around you.
+- Used in information gathering, trap detection, danger sensing, and stealth states
+
+**Spirit:** Represents how strong a character’s will is. This ability score includes things like enduring mental torment, and the strength of heart to not let things agitate you.
+- Determines the max value of MP
+- Make an opponent believe in your bluff or lie, and seeing through bluffs or lies made by others.
+- Convince the opponent, or have them grant a request or wish.
+- Resist fear, torture, and such.
+
+**Luck:** Represents the strength of a character’s luck, and their power to direct good luck. Used to express things like the result of a character’s actions and an unrelated event, coincidence, or fate.
+- Meet an acquaintance in the city.
+- Find or discover something by accident.
+- Luckily get by with receiving no harm.
+\page
+### Skills
+If ability scores are the basic capabilities of a character, then【Skills】are things characters have like talent and techniques
+made into data. For example,【Movement skill】 represents a high movement capability, and 【Weapon skill】 represents proficiency in the use of weapons.
+
+---
+These are split into 【Race skills】, which are skills set by race,【Class skills】, which are set by class, and 【General skills】, which can be obtained independent of class. Other than those, there are 【Enemy skills】, which are obtained by the PCs’ enemies.
+
+---
+When Creating a character, you selet **ONE** skill that is under Creation for your race.
+### Items
+
+The weapons and armor characters equip, and things like tools used in adventures are collectively called【Items】, and the items that a character possesses are called 【Possessions】. Possessions are split into three groups,
+- 【Equipment】, which are things like weapons and armor that can be put on yourself
+- 【Portables】, which can be put away into backpacks and pouches
+- and those which are neither equipment nor portables.
+
+-----
+Characters can equip one item each to six possible locations,「Right hand」「Left hand」「Head」「Body」「Auxiliary armor」「Accessory」. The types of equipable items are ［Weapon］［Shield］［Armor］［Accessory］. The description for equip methods of weapons and shields differ.
+
+### Personal Data
+Personal data is data that is represented by character settings like their name, sex, age, and appearance, and things like the character’s origin and history, which is called their life path.
+
+### Cheats
+Cheats are things like special characteristics or special abilities of characters appearing in the original ‘Konosuba’ novel that have
+been made into data.
+
+By bringing in cheats, session developments can become flashier, and unpredictable. At the same time, there is a chance of
+session progress breaking down.
+
+If the GM gives permission, PC’s can obtain cheats.
+
+### Secondary Ability Scores
+【Secondary ability scores】 are special ability scores found from things like your ability score and equipment. Mainly used during
+combat.
+
+##### HP
+［HP］ is a number that represents a character’s physical endurance. Called “Life force” in the original work.
+By receiving attacks from things like weapons, magic, or getting caught in traps, whenever characters are injured, fatigued, or
+such, HP is reduced. Furthermore, HP has no minimum value, and may become negative.
+```
+```
+##### Max HP
+What you decide during character creation is your HP’s maximum value. This is called ［Max HP］. HP reduced from damage can
+be restored in various ways, but you cannot exceed your max HP. You can find your max HP by using the following formula.
+Record this number in the HP section of your character sheet.
+
+##### MP
+［MP］is a number that represents the power used for magic and skills. Called “Magical power” in the original work. Mainly decreases through use of skills. Unlike HP, the minimum value of MP is zero, and it cannot become negative.
+
+##### Max MP
+What you decide during character creation is your MP’s maximum value. This is called ［Max MP］. MP reduced from skill use can be restored in various ways, but you cannot exceed your max MP.
+
+##### Action Score
+【Action score】 is a number used to determine the order of character actions, being a secondary ability score that represents
+how fast you can act. 
+
+##### Movement Ability
+【Movement ability】 is a secondary ability score that represents how far a character move in battle, and such, with units in
+meters. You can find your【Movement ability】 by using the following formula. The minimum value for 【Movement ability】 is
+zero. If your 【Movement ability】 ever becomes zero, you cannot move anywhere.
+
+### Blessings
+A 【Blessing】is a power that defies fate, or makes it your ally. With this power, you can do things that produce great successes,
+like producing results above your actual abilities, or dealing an even heavier blow.
+
+【Blessings】 are the PCs hidden powers, the power to rewrite fate.
+-Additional Dice: Right before a dice roll, increase your dice by 1 for every spent 【Blessing】point (To a
+maximum of your 【Luck】score).
+-Check Reroll: Right after doing a check, you can spend 1 【Blessing】point to reroll that check. Can do once
+per check.
+
+----
+Blessing Points are returned to the players at the end of the session (or after a long rest)
+
+
+\page
+## Making A Character
+
+### Step 1
+##### Pick a Race
+
+Pick from the Reincarnated, Native or Crimson Demon.
+
+### Step 2
+##### Pick a Class from the Base class list
+
+Knight, Priest, Wizard, Theif, Adventurer, Archer, Elemental Master, Creator, Swordsman, Sworn Knight, Lancer, or Rune Knight.
+
+### Step 3
+##### Skills
+Pick **ONE** of the Skills from your selected Race list that is listed as *Creation*.
+
+---
+Take up to **FIVE** levels worth of skills from your selected class.
+
+Thes can be used into five seperate skills, or up to **TWO** levels into one skill.
+
+---
+If you have chosen the **_Adventurer_** Class, you only have 
+
+【Blessing increase】You Must spend one point into blessing increase, after this you can take any skills from other classes.
+
+---
+Finally, take **TWO** general skills.
+
+### Step 4
+##### Ability Scores
+Base Ability Scores from race, Modifiers from class and any from skills taken.
+
+Then add 5 points anywhere you want. Max stat can get at creation is 13.
+
+---
+Ability Modifier - Total ability score divided by 3
+
+### Step 5
+##### Aquiring Items
+Players start with 500KE on character creation.
+
+Choose and buy the necessary weapons, armor, tools and such need in
+the adventure from the item data. 
+
+---
+Record the bought items and remaining money in the equipment section and portables section of your character sheet.
+
+---
+Each item has a set weight. When equipping items, of three groups, items equipped on the 「Right hand」 and 「Left hand」,
+those equipped on 「Head」, 「Body」, 「Auxiliary armor」, and 「Accessory」, and those in portables, each group’s sum weight
+cannot pass your 【Strength base score】.
+```
+```
+
+### Step 6
+##### Secondary Ability Scores
+Max HP, Max MP, Action Score, Movement Ability
+##### Max HP
+Max HP =【Strength base score】+ Class start HP + Skill Modifiers
+##### Max MP
+Max MP =【Spirit base Value】+ Class start HP + Skill Modifiers
+##### Action Score
+Action Score =【Agility】+【Perception】+ Equipment modifiers + Skill Modifiers
+##### Movement Ability
+Movement ability =【Strength】+ 5 + Equipment modifiers + Skill Modifiers
+##### Blessing Points
+PC’s during character creation have five points for【Blessings】.
+
+### Step 7
+##### Cheats
+If the GM Allows it, you can select a **Cheat**
+
+
+\page
+## Races
+
+#### Deciding Race
+Select one race from the three of reincarnated, native, and crimson demon, and record it in the race section in your character
+sheet.
+
+Native also encompases different races such as humans, elves and dwarves etc. Discuss with your GM about what you wan't your character to be and you may be able to move around the ability scores from the base.
+
+### Native
+The Native is a regular person who lives in this world, and was born here. These people are good all rounders and can be suited to any class.
+#### Native Base Ability Scores
+- ** Strength ** : 9
+- ** Dexterity ** : 8
+- ** Agility ** : 8
+- ** Intelligence ** : 8
+- ** Perception ** : 8
+- ** Spirit ** : 8
+- ** Luck ** : 8
+
+##### Native Origin Table
+| Dice Result | Origin | Description |
+|:----|:---|:-------------|
+|    00  | Choose  | Discuss with the GM, and decide on a setting you like.  |
+|  11-12 | Heroes  | Your parents are widely known, and are praised as heroes among some. Your parents’ existence influences you in various ways.  |
+|  13-14 | Nobles  | You are a child of royalty or nobles. You were brought up with a high level of education.  |
+|  15-16 | Knights | Your parents work as knights. Following in their footsteps, you have served with the knights yourself.  |
+|  21-22 | Adventurers | Your parents are also adventurers just like you. Your first adventure was a family trip.  |
+|  23-24 | Mercenaries | Your parents are mercenaries. They’ve fought in numerous battlefields, with you in tow. |
+|  25-26 | Spies  | Your family hides and walks in the shadows. They follow people like royalty, nobles, and famous merchants, and perform espionage and sabotage.  |
+|  31-32 | Priests | Your parents are priests. You may freely decide if they are in the Eris Church, Axis Church, or are followers of a different god. |
+|  33-34 | Magi |  Your parents are Magi. You’ve inherited various magic knowledge from your parents. |
+|  35-36 | Adventurer’s Guild Staff  | Your parents interact with adventurer’s as employees of the adventurer’s guild.  |
+
+| Dice Result | Origin | Description |
+|:----|:---|:-------------|
+|  41-42 | Scholars  | Your parents are scholars. Various magic items lay around your house.  |
+|  43-44 | Merchants  | Your parents are merchants. You’ve studied their business and negotiations with customers. Your current self is formed from those experiences.  |
+|  45-46 | Hunters  | Your parents are hunters. Everything you knowabout things like survival and outdoor living have been taught to you by your parents.  |
+|  51-52 | Wanderers  | Your parents are traveling nomads. Along with your parents, you’ve been to many places, and seen many sights.  |
+|  53-54 | Battlers  | Your parents are battlers who fight in arenas. Arenas are always side-to-side with danger. You’ve felt that tension with your skin.  |
+|  55-56 | Criminal Organization  | Your parents belong to an organization that contracts sabotage, assassinations, and the like. You’ve seen that dark side whether you like it or not |
+|  61-62 | Ex-convicts  | Your parents have committed crimes, or they’ve been wrongly imprisoned. You’ve lived always having to keep a low profile.  |
+|  63-64 | Demons  | Your parents are demons. The feared blood of darkness runs in your veins. |
+|  65-66 | Ordinary people  | Your parents are normal people who live in a town or village. They’ll keep going no matter what life throws at them. That’s the strength of being normal people.  |
+\page
+
+### Reincarnated
+Those reincarnated from Earth by a goddess, brought to defeat the demon lord. Many become adventurers. Given a special perk (like a magic tool) from a goddess, it’s highly likely they’ll be an excellent adventurer.
+#### Reincarnated Base Ability Scores
+- ** Strength ** : 8
+- ** Dexterity ** : 9
+- ** Agility ** : 8
+- ** Intelligence ** : 9
+- ** Perception ** : 8
+- ** Spirit ** : 7
+- ** Luck ** : 8
+
+##### Reincarnated Origin Table
+| Dice Result | Origin | Description |
+|:----|:---|:-------------|
+|    00  | Choose  | Discuss with the GM, and decide on a setting you like.  |
+|  11-12 | Truck  | Either from bad luck or someone’s intention, you were about to be run over. But before you realize it, you’re in an unfamiliar place, sitting in a simple chair. |
+|  13-14 | Gun Clap  | You were covering someone, simply had bad luck, or weremade into a shield. Right after the roar of gun clap, you were sitting in a simple chair. |
+|  15-16 | Smartphone | You were contacted on your smart phone. The moment you checked the message, you were sitting in a simple chair in an unfamiliar place. |
+|  21-22 | Dream | You had a dream. It was a dream of That World which you adored. When you awoke from the dream, you were sitting in a simple chair in an unfamiliar place. |
+|  23-24 | Game | You were playing an RPG on a system you borrowed from someone. Before you realize it, you’re in an unfamiliar place… except you’re not. This is That World |
+|  25-26 | Fog  | You got lost in a dense fog that suddenly appeared.Upon somehow getting out of the white fog, a land you’ve never seen before stretches out s in front of you. |
+|  31-32 | Shooting Star | You were wishing on a shooting star. The sparkling shooting star is beautiful, but isn’t it a little close? Before you realize it, you’re sitting in a simple chair. |
+|  33-34 | Hole | You were gazing into the abyss, when someone pushed your back. You continually fall. Before you realize it, you’re sitting in a simple chair. |
+|  35-36 | Voice From Heaven  | A voice like that of a beautiful goddess echoes directly in your head. It seems that voice is mistaking you for someone else. Before you realize it, you’re sitting in a simple chair.  |
+
+| Dice Result | Origin | Description |
+|:----|:---|:-------------|
+|  41-42 | Stairs  | To save someone, you take the fall in their place. Your vision spins, and before you realize it, you’re sitting in a simple chair. |
+|  43-44 | Lightning  | Pierced by a lightning strike, you couldn’t prepare for or feel death. Before you realize it, you’re sitting in a simple chair. |
+|  45-46 | Violence  | You got involved in someone’s fight. You feel crippling pain. Before you realize it, you’re sitting in a simple chair. |
+|  51-52 | Magic Circle  | Markings like a magic circle suddenly appear around your friend. You’re caught up in the markings and… before you realize it, you’re sitting in a simple chair. |
+|  53-54 | Video  |A video you happen to happened to watch. You feel like you’re being sucked into your screen, and… before you realize it, you’re sitting in a simple chair.|
+|  55-56 | Mysterious Door | You never noticed there was a door there before. You casually open the door, and… before you realize it, you’re sitting in a simple chair. |
+|  61-62 | Flash of Light  | Suddenly an intense burst of light explodes in front of your eyes. Before you realize it, you’re sitting in a simple chair. |
+|  63-64 | Lynch  | You were unjustly lynched. You pass out from the pain and humiliation. Before you realize it, you’re sitting in a simple chair. |
+|  65-66 | Unknown | Before you realize it, you’re sitting in a simple chair. Before your eyes is a beautiful woman who is smiling to you. |
+\page
+### Crimson Demon 
+A race whose special feature are their red eyes. Their magical power and intelligence are innately very high, and have a strong aptitude for being magic users. Live in a constructed community called the “Crimson demon village”. Generally have 「Weird」 names.
+#### Crimson Demon Base Ability Scores
+- ** Strength ** : 7
+- ** Dexterity ** : 8
+- ** Agility ** : 8
+- ** Intelligence ** : 10
+- ** Perception ** : 7
+- ** Spirit ** : 10
+- ** Luck ** : 7
+
+##### Crimson Demon Origin Table
+| Dice Result | Origin | Description |
+|:----|:---|:-------------|
+|    00  | Choose  | Discuss with the GM, and decide on a setting you like.  |
+|  11-12 | Heroes  | Your parents are widely known great magi, and are treated as heroes. It’s a problem that people snicker when you say your name though. |
+|  13-14 | Rulers | You come from the ruling class of the crimson demon clan. Your household has never had any problems with finances, and you’ve led a comfy life. |
+|  15-16 | Knights | Unusual for crimson demons, your parents work as knights. You’ve had all kinds of complicated feelings in watching them. |
+|  21-22 | Adventurers | Your parents are also adventurers just like you. Your first adventure was a family trip. |
+|  23-24 | Magi For Hire | Your parents are magi for hire. They’ve earned their meals with their magic techniques. For some reason, you’ve never stayed in one place for too long. |
+|  25-26 | Magic Ninjas  | Your family walks in the shadows of history, using the power of magic as pros of concealment. |
+|  31-32 | Sages | Your parent are both transcendent magi, and virtuous priests. Many people have come to them for their counsel. |
+|  33-34 | Magi | Just like many crimson demons, your parents are transcendent magi. But even among them, they’re an outstanding presence. |
+|  35-36 | Guild Support Member | Your parents are employees of the adventurer’s guild. They act mainly as support, doing things like magical item appraisal, and disenchanting. |
+
+| Dice Result | Origin | Description |
+|:----|:---|:-------------|
+|  41-42 | Magic Item Appraisers  | Your parents do magic item appraisal. Because of this, there’re many dangerous treasure lying around your house. |
+|  43-44 | Magic Merchant  | Your parents are magic merchants who deal in rare magic items that are tremendously expensive. You feel kinda proud watching them. |
+|  45-46 | Dirt-poor Living  | Your parents have sacrificed everything to increase their power as magi, and you were left in a catastrophic financial situation. |
+|  51-52 | Wandering Magic Users | You’ve traveled together with your parents. You’ve been to many places, and seen many sights. Only, you just don’t know why they continue traveling. |
+|  53-54 | Notorious Killers  | Your parents fight with the power of magic. Rather, they’re actually assassins that kill using magic. You’ve known about this for quite some time. |
+|  55-56 | Secret Organization | Your parents are members of a mysterious secret society. They’ve thrown themselves into various missions ordered by the organization. |
+|  61-62 | Fugitives | Your parents are fleeing from some kind of huge power, organization, or individual. You’ve always been in hiding, protected by your parents. |
+|  63-64 | Demons  | Your parents are demons. The feared blood of darkness runs in your veins. |
+|  65-66 | Ordinary people | Your parents don’t use the abundant magical power of the crimson demons, and just lead a grounded life as one of the town’s citizens. |
+\page
+##### Circimstance Table
+| Dice Result | Circumstances | Description |
+|:----|:---|:-------------|
+|    00  | Choose  | Discuss with the GM, and decide on a setting you like. |
+|  11-12 | Master  | You have a master who’s taught and trained you on techniques, and how to live. |
+|  13-14 | Alone in the World | You’ve been split apart whether from an incident, disaster, or death, and you now live alone, separated from family. |
+|  15-16 | Invalid | You’ve suffered from a severe wound or illness. That experience has probably greatly altered your view of life and death. |
+|  21-22 | Parents-in-law | You’ve been raised by parents-in-law. You can freely set things like the reason, relationship with your parents, and how you feel about it. |
+|  23-24 | Revelation | One day, you heard the voice of a beautiful goddess. You’ve been chosen by the goddess. For some great, important duty. Definitely, probably. |
+|  25-26 | Plundered  | You’ve been stolen from. Whether it was a treasure, loved one, or something else. Whatever it was, it was extremely precious. |
+|  31-32 | Downfall | For some kind of reason, you’ve lost your position at your company, financial security, or family honor. Your family home has fallen to ruin, being a shadow of its former self ever since. |
+|  33-34 | Loss | You’ve lost something important. A treasure, family, or something else. Whatever it was, there’s no doubt it was extremely precious. |
+|  35-36 | Traveler  | You’ve traveled from a far-away continent, or unknown region. Just how far have you come, traveling like this? Your journey’s end is still out of sight. |
+|  41-42 | True Identity  | You discovered your true identity. You haven’t told anyone about it. Rather, will a day ever come when you can? |
+|  43-44 | Amnesia  | You don’t have memories of your past. You’ve lost a portion of your memories up until now, or you’ve lost memories of yourself. |
+|  45-46 | Great Success  | You’ve had a great success in the past. It’s become a point of pride for you. Or perhaps you don’t recall the success at all. |
+|  51-52 | Promotion | You’ve been promoted within the guild. Or maybe you’ve gained a noble’s position from your adventuring. Oppositely, maybe you’ve become a free man, having been freed from slavery. |
+|  53-54 | Best Friends  |There’s someone you can call a best friend. Or there’s someone you can call a soul mate. You can freely set the details.|
+
+| Dice Result | Circumstances | Description |
+|:----|:---|:-------------|
+|  55-56 | Wanderer | You’re traveling around the world. Whether of your own will, or because of some circumstances. That you’re here right now is probably part of that journey. |
+|  61-62 | Betrayed  | You’ve been betrayed. Whether by someone you trust, someone in business dealings, a client, or sponsor. No matter from whom, it was a hard blow. |
+|  63-64 | Life of Leisure  | You’ve lived peaceful days as a regular citizen, without any particularly large troubles. |
+|  65-66 | Goddess’ Secret | You’ve learned a secret of a certain goddess. You may be in danger, having learned it. |
+##### Objective Table
+| Dice Result | Objective | Description |
+|:----|:---|:-------------|
+|    00  | Choose  |   |
+|  11-12 | Money!  | Your objective is money. In this world, as long as you have money, you can make it somehow. Things you can’t buy with money? You’re not interested in them. |
+|  13-14 | Training  | Your objective is training. Forging your body and heart, you aim to become something even greater. |
+|  15-16 | Quest | From the request of a beautiful goddess, you’re acting to slay a certain demon lord. You must complete this grand quest. |
+|  21-22 | Curiosity | Your objective is to sate your own curiosity. You’re aware these feelings will expose you to danger. But, you can’t stop. |
+|  23-24 | Fate | You’re on a journey guided by a destiny weaved by an elegant goddess. You can’t stop until your fate has been decided. |
+|  25-26 | Revenge  | You’re an avenger. However, your objective remains unfulfilled. You don’t have the strength, or you don’t know who to take revenge on. You’re consumed by that flame. |
+|  31-32 | Warmonger | You love fighting. You only truly feel alive when feeling the presence of a merciless death nearby, or by grasping life with your own power. |
+|  33-34 | Searching for Someone | Your objective is looking for someone. Just where can they be? You can freely set things like the reason, and relationship with the person. |
+\page
+
+| Dice Result | Objective | Description |
+|:----|:---|:-------------|
+|  35-36 | Breadwinning  | You’re working as an adventurer to provide for important people or family. What you earn as an adventurer goes to food for them to live. |
+|  41-42 | Coercion  | You’re being forced to take action regardless of your will. No matter how you feel about it, you don’t have a choice. |
+|  43-44 | Escape  | You’re being pursued by someone. You can’t settle down in one place. You act the way you do to escape from your pursuer. |
+|  45-46 | Justice  | You’re traveling in order to embody your own justice. For a day of blessings to come to this world so far from your ideals. |
+|  51-52 | Friendship| Your objective is to save a certain friend. You’re not doing it for a reward. It’s all for your friend, and for yourself, who deeply treasures your friendship with them. |
+|  53-54 | Reclaim  | Your objective is reclamation. To take back what was once yours. That’s what you’re working for. |
+|  55-56 | Claim | You’re looking for something. A tremendous power, fortune, or a way to return to your hometown. Obtaining that is your objective. |
+|  61-62 | Aspiration  | You adore adventurers. Maybe you admire the adventurer occupation, or maybe you’re aiming to become a famous adventurer yourself. |
+|  63-64 | Demon Lord  | Your objective is the demon lord. To make your mark as an adventurer, defeat the demon lord and bring blessings to this world. That is what you’re fighting for. |
+|  65-66 | Aimless | You don’t have any particular objective at the moment. But you spend your days in peace. That’s what’s important in life. It’s good to know your limits. |
+
+\page
+## Classes
+
+#### Base Class
+Decide the character’s class. Each character has one class.
+
+A class represents things like abilities and role in battle. For example, a knight stands at the front lines dealing heavy blows to the enemy, 
+
+while a wizard is responsible for staying back and attacking with magic. A priest heals and supports their party. Each class has a different fighting style.
+What you should do in-game is dependent on your chosen class. Choose one of the 12 classes, and record in the class section of your character sheet.
+
+<div class='classTable wide'>
+##### Base Class Table
+| Class | Strength | Dexterity | Agility | Intelligence | Perception | Spirit | Luck | Start HP | Start MP | HP Increase | MP Increase | Equipment Requirement|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|      Knight      |+2|+2|+2|— |— | —| —|26|20|+14| +8|Knight| 
+|      Priest      | —|+2|— |+2|— |+2| —|22|24|+10|+12| Priest | 
+|      Wizard      | —| —| —|+2|+2|+2|— |20|26|+8 |+14| Wizard | 
+|      Thief       | —|+2|+2| —|+2|— |— |24|22|+12|+10| Thief | 
+|    Adventurer    |+1|+1|+1|+1|+1|+1|+1|23|23|+10|+10| — | 
+|      Archer      | —|+2|+1|— |+2|— |+1|24|22|+12|+10| Thief | 
+| Elemental Master | —| —|+1|+2|+2|+1| —|22|24| +8|+14| Wizard | 
+|      Creator     | —|+1|+2|+1|+2| —| —|23|23| +8|+11| Thief | 
+|     Swordsman    |+1|+2|+2| —|+1| —| —|23|20|+11| +8| Knight | 
+|   Sworn Knight   |+2|+1|+1| —| —|+2| —|26|20|+14| +8| Knight | 
+|      Lancer      |+2|+2|+1| —|+1| —| —|26|20|+14|+10| Knight | 
+|    Rune Knight   |+1|+2|+1|+1| —|+1| —|24|22|+12|+10| Knight | 
+  </div>
+  
+#### Knight
+Even among adventurers, the knight is a class many are engaged in. They are widely depended on as the party’s sword and shield in brawls, and are expected to serve the most use in requests like monster slaying. 
+
+On the other hand, they are heavily reliant on their sword and shield for that offense and defense. In order to completely unleash their power in battle, it’s imperative they buy things like weapons and armor of good quality that matches their current self (Level).
+
+
+#### Priest
+A priest is a class that causes various miracles through the power of their faith. Responsible for the party’s healing and support. 
+
+Because it’s so important, every party wants one. Opposed to that importance is the fact that few priests choose the dangerous path of the adventurer. That’s why even in the adventurer’s guild, priests are in huge demand, and are pampered to the same degree. 
+There are even nefarious priests who take advantage of their occupation’s popularity by hopping between parties while milking them for all they’re worth. 
+
+In this world, the majority belong to the Eris Church, which worships the goddess Eris.
+
+#### Wizard
+The wizard is a class that manipulates magic, often treated as the brains of the party. That’s because magic and academics are widely considered as if the same thing, with many wizards taking higher education.
+
+It’s not unusual for doctors, or even national positions like government officials and tacticians to be done by wizards. But, talent is also important for manipulating magic. On this point, wizards from the crimson demon clan are well known for their excellence. 
+
+Wizards are a relatively rare class among adventurers, and it’s not uncommon for parties to not have one.
+
+#### Thief
+The thief is the second most seen class among adventurers, following the knight. Like the knight, it’s a class that is used for offense in battles. 
+
+Where the thief’s features most prominently appear is in dungeon exploration. A thief’s skills are absolutely essential for dealing with things like dangerous traps or mechanisms installed in dungeons. 
+
+They also have many skills relating to covert movement, and could be thought of as a class that the party can depend on to do a wide range of duties. 
+
+Among the class skill, there are many that expand what you can do just by having them. It’s a class whose skills greatly influence your character when acquired.
+
+#### Adventurer
+An adventurer is a class with no entry requirements for those who couldn’t pick any other class, or chose not to . 
+
+Adventurers can take class skills from other classes. Because of this, it can be thought of as a class aimed at experts. In essence, picking from the skills of all the base classes, you need both the knowledge of choosing the data you need yourself, and the sense to choose skills needed among your party members. 
+
+\page
+
+#### Archer
+Archers are a class that excel at using bows. It’s possible for them to snipe weak points and such without getting close to enemies. 
+
+#### Elemental Master
+The elemental master is a class that strengthens elemental powers by calling forth spirits. 
+
+Because of that specialty, if there’s no way to use the power of the elements, most of the skills are meaningless. 
+
+#### Creator
+The creator is a class that fights using “Magic circle” traps brought forth by magic. 
+
+The magic circles can create gaps in enemy defense, or inflict a desired ailment. 
+
+#### Swordsman
+The swordsman is a class that excels at using all kinds of swords, like short blades, long blades, and two-handed swords. 
+
+Once they have a sword in hand, they could probably cut down any kind of enemy with ease.
+
+#### Sworn Knight
+Like the knight, the sword knight is class that represents the proud. They can raise their own power through honor and oaths. 
+
+#### Lancer
+The lancer is a class that uses spears to fight. They can utilize their long reach to stop enemies in their tracks, or use an assault’s momentum to increase their force and attack.
+
+#### Rune Knight
+A rune knight is a class that uses magic seals (Runes) to fight. 
+
+They can do things like strengthen weapons or armor, or bring out the elemental power of treasure using seals.
+
+\page
+  ## Advanced Classes
+
+
+  <div class='classTable wide'>
+##### Advance Class Table
+| Class | Strength | Dexterity | Agility | Intelligence | Perception | Spirit | Luck | Start HP | Start MP | HP Increase | MP Increase | Equipment Requirement|
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Crusader |+3|+2|+2| —| —|+1| —| —| —|+20|+10| Knight | 
+|Archpriest| —|+2| —|+2| —|+3|+1| —| —|+14|+16| Knight | 
+|Archwizard| —| —| —|+3|+3|+2| —| —| —|+12|+18| Knight | 
+| Assassin | —|+2|+3| —|+3| —| —| —| —|+16|+14| Knight | 
+</div>
+
+### Advance Classes
+Also called advanced occupations in the original work. Classes more specialized than the base classes. Classes you can change to
+when your character level is 10 or higher.
+
+#### Crusader
+The crusader is the advanced class of the knight. It focuses on weapon attacks, and skills that raise defense. It’s also filled withskills to protect their companions. 
+
+They can be considered required skills for the crusader, who faces enemies while standing on
+the front lines.
+
+#### Archpriest
+The Archpriest is the advanced class of the priest. They can use magic even more specialized in healing and support. Also aside
+from support, it’s become a class better suited for combat as well.
+
+#### Archwizard
+The archwizard is the advanced class of the wizard. They can use advanced magic that has even greater force.
+
+#### Assassin
+The assassin is the advanced class of the thief. They excel at their fighting method of lurking in the shadows, and stealing
+enemies’ lives by thrusting into weak points.
+
+
+\page
+# Skills
+### Native Skills
+
+---
+#### All-rounder
+*Native Race Skill*
+___
+- **Timing:** Passive/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** Upon being taken, choose three base ability scores. During character creation, add 1 to all three base ability scores chosen.
+- **Critical:** N/A
+
+Even among the natives, you excel at many things
+
+#### Robust
+*Native Race Skill*
+___
+- **Timing:** Passive/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** +3 to your 【Physical defense】
+- **Critical:** N/A
+
+Your body is sturdy, as if made of stone. Small blades don’t hurt at all.
+
+#### Snap Judgement
+*Native Race Skill*
+___
+- **Timing:** Passive/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** +3 to your【Action Score】
+- **Critical:** N/A
+
+No matter what kind of situation, you never hesitate, and take instant action.
+
+#### Battle Arts
+*Native Race Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** +2 to the success score of a target hit check when using an equipped weapon.
+- **Critical:** N/A
+
+You excel at using the fighting techniques of various weapons. Even if it’s a weapon you’ve never used before, you can probably wield it well. It’s a natural talent, given from the gods.
+```
+```
+### Reincarnated Skills
+
+---
+
+#### Reincarnation Perk: Power of Destiny
+*Reincarnated Race Skill*
+___
+- **Timing:** Passive/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** Gain an additional 【Blessing】during Character creation.
+- **Critical:** N/A
+
+A perk of being reincarnated. A skill that represents you choosing the power to reverse your destiny.
+
+#### Reincarnation Perk: Weapon
+*Reincarnated Race Skill*
+___
+- **Timing:** Item/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** Choose one weapon from your possessions during pre-play. Add 2 to that item’s 【Attack Power】
+- **Critical:** N/A
+
+A perk of being reincarnated. A skill that represents you choosing a transcendent weapon.
+
+#### Reincarnation Perk: Armor
+*Reincarnated Race Skill*
+___
+- **Timing:** Item/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** Choose one piece of armor from your possessions during pre-play. Add 2 to the item’s【Physical Defense Power】and add 1 to the【Magical Defense Power】
+- **Critical:** N/A
+
+A perk of being reincarnated. A skill that represents you choosing unassailable armor.
+
+
+#### Reincarnation's Insight
+*Reincarnated Race Skill*
+___
+- **Timing:** Right after check
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** Once per scenario
+- **Effect:** Used right after performing a check. Add 3 to that check’s success score.
+- **Critical:** N/A
+
+A skill that breaks you out of a situation using knowledge or common sense from present-day Earth. Grasp victory with information not of this world.
+\page
+### Crimson Demon Skills
+---
+
+#### Ability Specialization
+*Crimson Demon Race Skill*
+___
+- **Timing:** Passive/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** Upon taking this skill, choose two ability scores. Of the selected ability scores, give +4 to one base ability score, and -1 to the other base ability score.
+- **Critical:** N/A
+
+A skill that represents a strengthening of a certain ability. However, that distortion cause a different ability to weaken.
+
+#### Great Magical Ability
+*Crimson Demon Race Skill*
+___
+- **Timing:** Passive/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** +5 to your【Max MP】during character creation. 
+- **Critical:** N/A
+
+Even among the crimson demon clan, you naturally have high magical abilities.
+
+#### Magical Genius
+*Crimson Demon Race Skill*
+___
+- **Timing:** Passive/Creation
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** +1 to your magic check's success score
+- **Critical:** N/A
+
+The crimson demon clan are a race that excel at magic, and have an abundance of knowledge. Even among the crimson demon clan, you are outstanding at those abilities.
+
+#### Heaven-sent Child of Destruction
+*Crimson Demon Race Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** -
+- **Effect:** +3 to your magical attacks.
+- **Critical:** N/A
+
+You excel at manipulating magic meant for attacking. It’s a small difference, but that difference can be what separates life and death.
+```
+```
+### Adventurer Skills
+---
+
+#### Ability Specialization
+*Adventurer Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** None
+- **SL Limit:** 1
+- **Use Requirements:** None
+- **Effect:** +1 to your 【Blessings】during pre-play. However, if your class is not adventurer, the effect is lost.
+- **Critical:** N/A
+
+A skill that represents the beginner’s luck of an adventurer.
+
+### Knight Skills
+---
+
+#### Covering
+*Knight Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Close, Single Target
+- **MP Cost:** 2
+- **SL Limit:** 1
+- **Use Requirements:** Once per Defense
+- **Effect:** Gives the target cover. Can provide cover even if in post- action, and can provide cover during pre-action without becoming post-action. Move into the way of an attack and take it for your ally
+- **Critical:** N/A
+
+A skill to protect companions by volunteering your body.
+
+#### Cover Move
+*Knight Class Skill*
+___
+- **Timing:** 【Covering】
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 4
+- **SL Limit:** 3
+- **Use Requirements:** SL times per scene
+- **Effect:** Used at the same time as 【Covering】. Changes 【Covering】from 【Range:Close】 to 【Range:20m】 However, you don't move even if you use this skill
+- **Critical:** N/A
+
+A skill to cover a separated companion.
+
+#### War Cry
+*Knight Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 4
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Provides a damage increase. +【SL x2】to close-quaters attacks. This effect lasts until the scene ends.
+- **Critical:** N/A
+
+A skill that, by getting motivated by oneself, increases the body’s strength during battle.
+\page
+
+#### Devastating Strike
+*Knight Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Target Hit Check
+- **Range/Target:** Weapon, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Performs a weapon attack. +【(SL) Dice】to the attacks damage.
+- **Critical:** Additional Dice Roll
+
+A skill that, by getting motivated by oneself, increases the body’s strength during battle.
+
+#### Vacuum Wave
+*Knight Class Skill*
+___
+- **Timing:** Used same time as a weapon attack
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** Knight, Once per Scenario
+- **Effect:** Used at the same time as a weapon attack. The attack is changed to 【Target:Single】and  +【ClassLevel x10】is added to the damage.
+- **Critical:** -
+
+A skill that generates a vacuum wave when attacking, increasing damage. As one becomes more proficient, the number of vacuum waves increases.
+
+#### Desperation
+*Knight Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 5
+- **Use Requirements:** -
+- **Effect:** Provides a damage increase. +【SL x3】to your weapon attack damage. However, take -1D for reactions you perform. The effect continues until it's declared cancelled by useing a minor action, or the scene ends.
+- **Critical:** -
+
+A reckless skill where you attack the enemy with no thought of dodging.
+
+#### Endurance Skill
+*Knight Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 3
+- **Use Requirements:** -
+- **Effect:** +【SL x5】to your【Max HP】 
+- **Critical:** -
+
+A skill that raises your fitness. You devote yourself to raising your fitness. If there’s free time, you repeatedly do sit-ups, pull-ups, and push-ups. You’ll probably experience firsthand that in the end, it’s fitness that tips the scales of victory and defeat.
+```
+```
+#### Shield Attack Skill
+*Knight Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 3
+- **Use Requirements:** Shield Equiped
+- **Effect:** +SL to the success score of a target hit check that uses a weapon, and +【SL x2】to close-quaters attack damage
+- **Critical:** -
+
+A skill that Ingeniously fuses shield and weapon attacks.
+
+#### Follow-up
+*Knight Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 3
+- **Use Requirements:** Once per scene
+- **Effect:** Used right before a weapon attack damage roll. Increase damage +【(SL x2) Dice】to that attack's Damage.
+- **Critical:** -
+
+A skill that deals more damage to the opponent by unleashing another blow after an attack hits.
+
+#### Decoy @@@
+*Knight Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Strength
+- **Range/Target:** 10m, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 3
+- **Use Requirements:** -
+- **Effect:** Performs a showdown with the target's 【Spirit】. Also, add  +【SL x2】to the showdown check's success score. If you win this showdown, the target is given 【Frenzy】
+- **Critical:** -
+
+A Skill that directs attacks to yourself
+
+#### Iron Wall
+*Knight Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 5
+- **Use Requirements:** -
+- **Effect:** +【SL x3】to your【Physical Defense】. The effect lasts until the scene ends.
+- **Critical:** -
+
+A skill to withstand enemy attacks by taking a defensive stance.
+
+\page
+#### Grand Sweep
+*Knight Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Target hit check
+- **Range/Target:** Close Range, Target area (【SL x2】Targets)
+- **MP Cost:** 3
+- **SL Limit:** 3
+- **Use Requirements:** -
+- **Effect:** Performs a close-quaters attack on targets in one engage
+- **Critical:** Additional Dice Roll
+
+A skill that attacks multiple enemies at once with a wide swing of your weapon.
+
+#### General Purpose Defense Skill
+*Knight Class Skill*
+___
+- **Timing:** Passive
+- **Check:** -
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 3
+- **Use Requirements:** -
+- **Effect:** +【SL x2】to your【Physical Defense】and +SL to【Magical Defense】 
+- **Critical:** -
+
+A skill to parry enemy attacks through ingenious use of your weapon and shield, Your training being ingrained into your unconscious mind, you fend off enemy skills without thinking.
+
+#### Weapon Skill
+*Knight Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** Selected Weapon Use
+- **Effect:** Select one weapon catagory upon taking this. Written like【Weapon Skill:Long Blade】,+1D is granted to target hit checks that use the selected weapon. For each seleted weapon, it's considered to have its own skill, but multiple【Weapon Skill: ~ ~】Cannot be applied at the same time.
+- **Critical:** -
+
+Masters the use of a specific weapon. Among adventurers, the selected weapon category is referred to like “Single-handed sword skill”, or “Bow skill”.
+
+#### Indomitable
+*Knight Class Skill*
+___
+- **Timing:** Clean up process
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 1
+- **Use Requirements:** -
+- **Effect:** Recover from one bad status.
+- **Critical:** -
+
+A skill that heals a bad condition of the body by raising your resistance, or fixing your stance or such.
+```
+```
+#### Helm Breaker
+*Knight Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 1
+- **Use Requirements:** -
+- **Effect:** Increases Damage. +【Strength】to close-quaters attack damage. Effect continues until the main process ends.
+- **Critical:** -
+
+A skill attacks with brings down your weapon with all your weight behind it. The stronger you are, the more damage is brought out.
+
+#### Defense Focus
+*Knight Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 4
+- **SL Limit:** 1
+- **Use Requirements:** -
+- **Effect:**  +1D to evasion checks. However, you take -1D when performing chekcs in major actions. The effect continues until it's declared cancelled by using a minor action, or the scene ends.
+- **Critical:** -
+
+A skill to concentrate on defense
+
+#### Glancing Blow
+*Knight Class Skill*
+___
+- **Timing:** Right after damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 5
+- **Use Requirements:** -
+- **Effect:** Reduces damage. Used right after the damage roll when you receive physical damage. -【SL x3】to that damage
+- **Critical:** -
+
+A skill that reduces damage by making the opponent's attack glance off your weapon, shield, hard part of your armor or such.
+
+#### Unseen Strike
+*Knight Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 1
+- **Use Requirements:** -
+- **Effect:** +1D to close-quarters attacks' target hit checks. This effect continues until the main process ends
+- **Critical:** -
+
+An Attack skill that's so swift that even the flash of a blade can't be seen.
+
+\page
+
+#### Target Hit Skill
+*Knight Class Skill*
+___
+- **Timing:** Passive
+- **Check:** -
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 5
+- **Use Requirements:** -
+- **Effect:** +【SL +1】to target hit checks that use a weapon.
+- **Critical:** -
+
+A skill for perfectly handling weapons. You know all the quirks of your weapon down to the smallest detail. Because you know that that’s one of your duties as a knight.
+
+### Priest Skills
+---
+
+#### Invoke (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** -
+- **Effect:** +1D to evasion checks the target performs. This effect continues until the scene ends.
+- **Critical:** MP Cost 0
+
+Magic that provides protection from danger by praying for divine protection from the gods.
+
+#### Exorcism (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** -
+- **Effect:** Effective on targets with 【Classification:Demon】. Performs a magical attack on the target. That attack's damage deals 【2D+10(【Fire】element magic damage】
+- **Critical:** Additional Dice Roll
+
+Magic that produces blue flames that drives out demons.
+
+#### Cure (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 5
+- **SL Limit:** 1
+- **Use Requirements:** -
+- **Effect:** Cure all status ailments that the target has
+- **Critical:** Cost 0
+
+Magic that uses holy power to cleanse the target of things like poison, returning their body’s condition or state to normal.
+```
+```
+#### Quick Heal
+*Priest Class Skill*
+___
+- **Timing:** Initiative Process
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 1
+- **Use Requirements:** Once Per Scene
+- **Effect:** Used at the same time as【Heal】. From this effect,【Heal】 can be used during the initiative process 
+- **Critical:** N/A
+
+A skill that heals those hurt, by quickly raising prayers to the gods.
+
+#### Faith Skill
+*Priest Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Effective on magical Attacks that deal piercing damage. +【SL x4】to the magical attack's damage.
+- **Critical:** N/A
+
+If evil grows more powerful, justice must also continue growing. A skill that represents gaining the power of even deeper faith.
+
+#### Holy Light
+*Priest Class Skill*
+___
+- **Timing:** Move Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 3
+- **Use Requirements:** SL times per scene
+- **Effect:** Effective on【Classification:Magic】of priests and archpriests. +3D to atack damage and the effects of HP healing. This effect continues until the main process ends.
+- **Critical:** N/A
+
+A Skill that raises the force of magic by turing prayers to the gods into magical Power.
+
+#### Saint Shield (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Right after damage roll
+- **Check:** Automatic Success
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 3
+- **SL Limit:** 5
+- **Use Requirements:** Once Per Defense
+- **Effect:** Gives damage reduction to the target. Used right after the damage roll when the target is taking damage.-【SL Dice】to that damage. If multiple【Saint Shield】are used at the same time, the target decides which eddect is used
+- **Critical:** N/A
+
+Magic that protect with a shield of light
+\page
+
+#### Turn Undead (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Area(choice)
+- **MP Cost:** 10
+- **SL Limit:** 3
+- **Use Requirements:** Once Per Scene
+- **Effect:** Effective when the target has 【Classification:Undead】. If the target enemy's ClassLevel (Or enemy Level) is at, or below【ClassLevel+SL】then they are knocked out or made dead. (You Choose while using it)
+- **Critical:** N/A
+
+Magic that dispels that which has no life.
+
+#### Divine Guard
+*Priest Class Skill*
+___
+- **Timing:** Right after damage roll
+- **Check:** Automatic Success
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** Priest, once per scenario
+- **Effect:** Used right after the damage roll when the target is taking damage. Change that damage to 0.
+- **Critical:** N/A
+
+A skill that protects the target with the god's benevolence by praying to the gods.
+
+#### Powered (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Grants additional damage to the target. +【SL x3】. to weapon damage that the target performs. This effect continues until the end of the scene
+- **Critical:** Cost 0
+
+Magic that strengthens the target, helping them to hit harder with their weapons.
+
+#### Heal (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Performs HP healing on the target. The target's【HP】is restored by【3D + ClassLevel x3】points.
+- **Critical:** Additional Dice Roll
+
+Magic that instantly heals the target's wounds through the power of the gods.
+```
+```
+#### Weapon Skill: Bash
+*Priest Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** A weapon with the【Bash】category.
+- **Effect:** +1D to the target hit checks that use a weapon from the【Bash】category. However, multiple【Weapon Skill: ~ ~】cannot be applied at the same time.
+- **Critical:** Additional Dice Roll
+
+Magic that instantly heals the target's wounds through the power of the gods.
+
+#### Break Spell (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Removes the effects of one ongoing【Classification:Magic】skill from the target.You decide which skill to remove.
+- **Critical:** Cost 0
+
+Magic that negates magic through holy words.
+
+#### Blessing (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** Close Range, Single target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** +1D to checks the target performs. This effect is ongoing until the round ends.
+- **Critical:** Cost 0
+
+Magic that uses good lick. The one who receives that magic will surely succeed in everything they do.
+
+#### Haste (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 3
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Increases the target's action score.+【(SL) Dice】to the targets【Action Score】. This effect is ongoing until the round ends.
+- **Critical:** Additional Dice Roll
+
+Magic that negates magic through holy words.
+
+\page
+
+#### Holy Armor (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** +【SL x3】to the target's【Physical Defense】. This effect is ongoing until the Scene ends.
+- **Critical:** Cost 0
+
+Magic that raises defense through a boon of the gods.
+
+#### Holy Word (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Increases the damage of the target. +【SL x3】to the damage of magical attacks the target performs. This effect is ongoing until the scene ends
+- **Critical:** Cost 0
+
+Magic that raises the effects of magic through blessing of the gods by calming the heart of the target, increasing their concentration.
+
+#### Resurrection (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 10
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Effective on targets who are knocked out. Restores the target from being knocked out, and sets their【HP】to【2D】.
+- **Critical:** Additional Dice Roll
+
+Rescues the target from the grip of death.
+
+#### Reverse Heal (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Required to take 1 level in【Heal】.Effective against【Classification:Undead】.Performs a magical attack on the target. The attack's damage is 【3D + ClassLevel x3】(Piercing damage)
+- **Critical:** Additional Dice Roll
+
+Magic that utilizes healing magic to torment the dead.
+```
+```
+#### Resist (Magic)
+*Priest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 5
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** +【SL x3】to the targets 【Magic defense】.This effect is ongoing until the scene ends
+- **Critical:** Cost 0
+
+Magic that raises magical resistance from the boon of the gods.
+
+
+### Wizard Skills
+---
+
+#### Ankle Snare (Magic)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 7
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Applies【Slip】and【Knockback (1)】to the target.
+- **Critical:** -
+
+Magic that stops movement by entangling the target's ankles.
+
+#### Wind Curtain (Magic【Wind】)
+*Wizard Class Skill*
+___
+- **Timing:** Right before check
+- **Check:** Automatic Success
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** Once per round
+- **Effect:** Used right before the target performs an evasion check against a ranged attack, or 【Classification:Magic】. +5 to that evasion check's success score.
+- **Critical:** -
+
+Magic that protects against things like arrows and magic by producing a small whirlwind
+
+#### Water Shield (Magic【Water】)
+*Wizard Class Skill*
+___
+- **Timing:** After a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** Once per round
+- **Effect:** Reduces damage. Used right after the damage roll when the target is taking special attack damage. -10 to that damage.
+- **Critical:** -
+
+Magic that creates a shield of water, reducing damage from things like breath.
+
+\page
+
+#### Incant Skill
+*Wizard Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** +1D to magic checks.
+- **Critical:** -
+
+A skill that raises incantation's precision and concentration, making magic invocations easier.
+
+#### Strengthening Incantation
+*Wizard Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Increases damage. +【Perception】to magic attacks. This effect is ongoing until the main process ends.
+- **Critical:** -
+
+A skill that strengthens the force of magic by adding a special incantation. Tests your feel for incanting with precision continuosly.
+
+#### Beginner Magic Acquisition
+*Wizard Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Upon taking this, choose 3【General Skills】that are 【Classification:Magic】. You acquire those skills.
+- **Critical:** -
+
+Skill to master beginner's magic
+
+#### Stone Shield (Magic【Earth】)
+*Wizard Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 5
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** +5 to the target's【Physical Defense】. This effect is ongoing until the round ends.
+- **Critical:** Cost 0
+
+Magic that creates a shield of stone, raising physical defense.
+```
+```
+#### Stone Bind (Magic【Earth】)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Performs a magic attack on the target. The attack's damage is【2D+5】(【Earth】element magic damage). Also, if this attack does even 1 point of HP damage to the target,【Slip】is inflicted.
+- **Critical:** Additional Dice Roll
+
+Magic that brings forth small rocks, and launches them.
+
+#### Sleep (Magic)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single target
+- **MP Cost:** 7
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Inflicts target with【Dazed】and【Stun】.If the target is an extra, you can choose to make them sleep.
+- **Critical:** -
+
+Intermediate magic that puts the target to sleep. For those with strong resistance, it can have the effect of thosing their awareness for a short time
+
+#### Element Strengthen Skill
+*Wizard Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Upon taking this, select one element. Effective for magic attacks that deal magic damage in the chosen element【SL x4】to magic attack damage.
+- **Critical:** N/A
+
+A skill that represents your talent at manipulating a specific elements magic.
+
+#### Fire Ball (Magic【Fire】)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Performs a magic attack on the target. The attack's damage is【2D +10】(【Fire】element magic damage).
+- **Critical:** Additional DiceRoll
+
+Magic that brings forth a sphere of fire, and launches it.
+
+\page
+
+#### Flash (Magic【Light】)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Performs a magic attack on the target. The attack's damage is【2D +5】(【Light】element magic damage). Also, if the attack does even 1 point of HP damage, it inflicts【Intimidation】. You can also choose to not inflict any damage at time of use.
+- **Critical:** N/A
+
+Intermediate magic that uses intense light to attack and stop movement at the same time.
+
+#### Freeze Gust (Magic【Ice】)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Performs a magic attack on the target. The attack's damage is【2D +5】(【Ice】element magic damage). Also, if the attack does even 1 point of HP damage, it inflicts【Dazed】.
+- **Critical:** Additional Dice Roll
+
+Magic that brings forth an icy cold fog to attack.
+
+#### Blade of Wind (Magic【Wind】)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Performs a magic attack on the target. +1D to the attack's magic check, and it deals damage of【2D +5】(【Wind】element magic damage).
+- **Critical:** Additional Dice Roll
+
+Magic that Shreds the enemy with a blade of wind.
+
+#### Magic Blast
+*Wizard Class Skill*
+___
+- **Timing:** Move Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:** Changes【Target:Single】to【Target:Area(【SL x2 of【Magic Blast】】Targets)】for 【Classification:Magic】 that are both 【Timing:Mojor Action】 and 【Target:Single】. This effect is ongoing until the main process ends
+- **Critical:** N/A
+
+A skill that widens magic's effecting area by spreading out magic.
+
+#### Magic Strengthen Skill
+*Wizard Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:**  +【SL Dice】 to magic attack damage.
+- **Critical:** N/A
+
+A skill that represents the holder's superiority in magic.
+
+#### Magic Convergence 
+*Wizard Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:** Used right before a magic attack's damage roll. Increases the damage. +【(SL x2) Dice】to that attack's damage.
+- **Critical:** N/A
+
+A skill that further focuses magic to raise the impact of magic attacks.
+
+#### Magic Sublimation
+*Wizard Class Skill*
+___
+- **Timing:** When making a magic attack
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** Wizard, Once per Scenario
+- **Effect:**  Used at the same time as a magic attack. That magic attack changes to【Target:Single】and 【ClassLevel x10】to the damage.
+- **Critical:** N/A
+
+A skill that converts intense emotions into magic power, increasing magic damage.
+
+#### Lightning (Magic【Lightning】)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 6
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  Performs a magic attack on the target. The attack's dmaage is【2D x5】(【Lightning】element magic damage). Also, if the attak does even 1 point of HP damage, it inflicts【Stun】. You can choose to deal no damage at time of use.
+- **Critical:** N/A
+
+Intermediate magic that attacks with a lightning strike.
+
+\page
+
+#### Lock (Magic)
+*Wizard Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Magic Check
+- **Range/Target:** Close Range, (Reference Effect for Target)
+- **MP Cost:** 5
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  Substiture a magic check to disarm a trap. Also, can set up a【Key A】trap on objects like【Treasure chests】or【Doors】. The GM is allowed to not allow setting up 【Key A】on objects.
+- **Critical:** N/A
+
+Magic that does things like disarm traps or lock things, using magic.
+
+
+### Thief Skills
+---
+
+#### Ambush
+*Thief Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Target hit Check
+- **Range/Target:** Weapon attack, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 5
+- **Use Requirements:** Stealth
+- **Effect:**  Performs a weapon attack on the target. +1D to that attack's target hit check, and +【SL Dice】to that attack's damage.
+- **Critical:** Additional Dice Roll
+
+A skill that attacks from a hidden state. It’s likely the opponent won’t be able to dodge the unseen attack, and will take deadly damage.
+
+#### Evade Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  +1D to evasion checks.
+- **Critical:** N/A
+
+A skill that dodges attacks with magnificent movements like a butterfly.
+
+#### Danger Sense Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  +1D to Danger Perception checks.
+- **Critical:** N/A
+
+A skill that represents a special intuition of danger grown from being pursued by someone, or by happening across life-or-death situations.
+```
+```
+
+#### Finesse Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 3
+- **Use Requirements:** Selected weapon Use
+- **Effect:**  Upon takin this, choose one weapon【Category】. Written like【Finesse Skill:Short Blade】, +SL to target hit rolls using that weapon, and +【SL x2】to damage. However, multiple 【Finesse Skill: ~ ~】cannot be applied at the same time.
+- **Critical:** N/A
+
+A skill that represents specialization and mastery of one kind of weapon.
+
+#### Stealth Move Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  Stealth state won't be removed even if movement is performed, and engaging while maintaining stealth state is also possible. This effect is also effective when performing movement through skills or items
+- **Critical:** N/A
+
+A skill to hide in the shadows, moving without a sound
+
+#### Running Start Skill
+*Thief Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Automatic success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  Performs combat movement, or an escape. If you're blocked in by enemy characters in the engage you're in, you cannot perform an escape.
+- **Critical:** N/A
+
+A skill that allows you to Immediately start moving without any preliminary actions.
+
+#### Skill Bind
+*Thief Class Skill*
+___
+- **Timing:** When target declares a skill
+- **Check:** Automatic success
+- **Range/Target:** Visible, Single Target
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** Thief, Once per scenario
+- **Effect:**  Used when the target declares a skill that is not【Timing:Passive】. That skill's effects are not displayed, and immediately end without continuation. Since the skill is still used even though the effect was not displayed, the target still pays the cost and such as normal.
+- **Critical:** N/A
+
+A skill to prevent the opponent's action by suprising them, catch them off guard or such.
+
+\page
+
+#### Steal
+*Thief Class Skill*
+___
+- **Timing:** Right after a damage roll
+- **Check:** Automatic success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 4
+- **Use Requirements:** SL times per scenario
+- **Effect:**  Used right after the damage roll when an enemy is the target of a close-quaters attack. Obtain one item drop from the attack's target. Perform an item drop decision roll as normal. If used on an enemy with no set item drops, obtain【Enemy Level x100】KE
+- **Critical:** N/A
+
+A skill while attacking an enemy to steal something from them while they are distracted.
+
+#### Snake Beat
+*Thief Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 1
+- **Use Requirements:** Short blade, Whip use
+- **Effect:**  Increases damage +【Dexterity】to weapon attack damage. This effect is ongoing until the main process ends
+- **Critical:** N/A
+
+A skill that ingeniously manipulates a short blade or whip to increase force. The used weapon closes on the enemy's vital points like a snake.
+
+#### Speed Rush
+*Thief Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Target hit check
+- **Range/Target:** Weapon, Target Area (Choice)
+- **MP Cost:** 4
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:**  Performs a weapon attack on the target. If there're two or more targets of the attack, +【SL x2】to damage
+- **Critical:** Additional Dice Roll
+
+A skill that attacks surrounding enemies with nimble movements.
+
+#### Lurk Skill
+*Thief Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  Enter a stealth state. However, you can't use this skill if engaged with an enemy character(Excepting circumstances where you can enter a stealth state even when engaged with an enemy characer, using the effects of something like other skills, or items).
+- **Critical:** N/A
+
+A skill to instantly conceal yourself with nimble movement.
+```
+```
+#### Dual Blades Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** Short Blad, Whip Equipment
+- **Effect:**  Effective when weapons designated in the use requirements are equipped in both the 【Right Hand】and【Left Hand】. Sum the 【Target hit modifier】,【Attack Power】, and 【Action Modifier】of the two equipped weapons, and treat the 【Categories】 as one 【Equip Method:Dual】weapon. Both weapon's 【Effects】 are in effect and usable, but only one needing declaring can be used at a time
+- **Critical:** N/A
+
+A Skill for weilding multiple weapons at once.
+
+#### Enemy Detection Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  When receiving a suprise attack, you can perform a reactiom without taking -1D on the check
+- **Critical:** N/A
+
+A Skill that represents the ability to precisely react to unexpected attacks, by sensing daner with sharp intuition.
+
+#### Poison Skill
+*Thief Class Skill*
+___
+- **Timing:** When a weapon attack is made
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 6
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Used at the same time as a weapon attack. If an attack does even 1 point of HP damage to the target, it inflicts【Poison(SL)】. This effect is ongoing until the main process ends.
+- **Critical:** N/A
+
+A skill to attack with a poison dipped weapon or such.
+
+#### Bind
+*Thief Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Target Hit Check
+- **Range/Target:** Weapon, Single Target
+- **MP Cost:** 5
+- **SL Limit:** 5
+- **Use Requirements:** Whip use
+- **Effect:**  Performs a close-quaters attack on the target.+【SL x2】 to that attack's damage. Also, it the attack does even 1 pointof HP damage to the target, you and the target cannor perform movement, This effect is ongoing until you or the target declares a minor action to release it, or the scene ends
+- **Critical:** N/A
+
+A skill to entangle the opponent in a whip.
+
+\page
+#### Pierce
+*Thief Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Used right before a weapon attack's damage roll. Increases damage +【(SL) Dice】 to the attack's damage
+- **Critical:** N/A
+
+A skill to deal even greater damage by attacking the opponent's unprotected areas.
+
+#### Feint
+*Thief Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 4
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  -1D to reaction checks for targets you perform weapon attacks on. This effect is ongoing until the main process ends.
+- **Critical:** N/A
+
+A skill to make attacks land easier by mixing in feints.
+
+#### Weapon Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** Selected weapon use
+- **Effect:**  Select one weapon category upon taking this. Written like【Weapon Skill:Short Blade】, +1D is granted to target hit checks that use the selected weapon. For each selected weapon, it's considered to have its own skill, but multiple【Weapon Skill:~ ~】cannot be applied at the same time.
+- **Critical:** N/A
+
+Masters the use of a specific weapon. Among adventurs, the selected weapon category is referred to like "Single-handed sword skill", or "Bow skill".
+
+#### Trap Disarm Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  +1D to trap disarm checks.
+- **Critical:** N/A
+
+A skill that represents yourintimate knowlege of how various kinds of traps are constructed, and mastery of undoing those mechanisms.
+```
+```
+#### Trap Detection Skill
+*Thief Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  +1D to trap Detection checks. Furthermore, even if you fail to detect a trap, it will not activate
+- **Critical:** N/A
+
+A skill that represents being skilled at spotting traps, from guessing at their construction, or from experience, intuition or the like.
+
+### Archer Skills
+---
+
+#### Shadow Bind
+*Archer Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Target Hit Check
+- **Range/Target:** Weapon Range, Single Target
+- **MP Cost:** 3
+- **SL Limit:** 1
+- **Use Requirements:** Bow Use
+- **Effect:**  Performs a ranged attack on the target. If the attack does even 1 point of HP damage to the target, -1D to evastion checks the target performs. This effect is ongoing until the round ends.
+- **Critical:** Additional Dice roll
+
+A skill that interferes with the target’s actions by binding their shadow with an arrow.
+
+#### Snipe Skill
+*Archer Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 1
+- **Use Requirements:** Bow Use
+- **Effect:** +【Luck】to ranged attack damage. This effect is ongoing until the main process ends.
+- **Critical:** N/A
+
+A skill to perform a snipe with a bow. The amount of luck the user has affects the precision of the attack.
+
+#### Clairvoyance
+*Archer Class Skill*
+___
+- **Timing:** Move Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Increases damage. +【SL x3】to ranged attack damage. Also, you don;t receive modifiers from【Dimness】. This effect is ongoing until you perform movement, or the scene ends. 
+- **Critical:** N/A
+
+A skill that strikes the enemy with a well-aimed, severe single attack.
+
+\page
+
+
+### Elemental Master Skills
+---
+
+#### Spirit Strengthen Skill
+*Elemental Master Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Upon takin this, select one element. Both +SL to magic checks and +【SL x2】to magic damage of 【Classification:Magic】skills with the selected elemet. Written like【Spirits Strengthen Skill: Light】, it's considered to be taking different skills for each element.
+- **Critical:** N/A
+
+A skill to precisely manipulate magic and increase its force by using the power of the spirits.
+
+#### Spirit Setup (Magic)
+*Elemental Master Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Magic Check
+- **Range/Target:** Self
+- **MP Cost:** 6
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Upon use, select one element. +【SL x5】to magic damage you deal with the selected element. This effect is ongoing until the scene ends, or you perform a movement action
+- **Critical:** Cost 0
+
+A skill that summons spirits to a nearby location to support your attacks. If you get seperated, the link with the spirits is broken.
+
+#### Spirit Defense
+*Elemental Master Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Magic Check
+- **Range/Target:** 20m, Single target
+- **MP Cost:** 3
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Upon use, select one element. When taking magic damage with the selected element, calculate damage after adding +【SL x5】to 【Magic Defense】This effect is ongoing until the round ends.
+- **Critical:** Cost 0
+
+A skill that sets up spirits near the target, raising their defense for a specific element.
+```
+```
+### Creator Skills
+---
+
+#### Booby Trap
+*Creator Class Skill*
+___
+- **Timing:** Move Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 9
+- **SL Limit:** 3
+- **Use Requirements:** SL Times per scene
+- **Effect:**  Upon use, select one ailment. Uf an attack does even 1 point of HP damage to the target, the selected ailment is inflicted. The effect intensity is 1 if needed. This effect is ongoing until the main process ends.
+- **Critical:** N/A
+
+A Skill that entraps targets by predicting enemy behavior and setting up magic circles beforehand.
+
+#### Defense Piercing skill
+*Creator Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 5
+- **SL Limit:** 3
+- **Use Requirements:** Once per Scene
+- **Effect:**  Used right before an attack's damage roll. For that attack,-【SL x5】(Minimum 0) is taken for both【Physical Defense】and 【Magic Defense】, then damage is calculated.
+- **Critical:** N/A
+
+A skill that uses a magic circle to temporarily neutralize enemy defenses.
+
+#### Trap Strengthen skill
+*Creator Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  +1 to effect intensity of ailments inflicted. Ineffective for ailments without effect intensity.
+- **Critical:** N/A
+
+A skill that develops a magic circle that strengthens things like poison and pain that you inflicts.
+
+\page
+
+### Swordsman Skills
+---
+
+#### Iai Skill
+*Swordsman Class Skill*
+___
+- **Timing:** Move Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 3
+- **Use Requirements:** Short Blade, Long Blade, Two-handed Sword Use, SL times per Scene
+- **Effect:**  +3D to close-quaters attack damage. This effect is ongoing until the main process ends. Also, you may have a【Catagory:Short Blade, Long Blade, Two-handed Sword】weapon equipped when ising this skill(Be aware that you can't exchange). 
+- **Critical:** N/A
+
+A skill that liecs the enemy while drawing your blade
+
+#### Sword Dance
+*Swordsman Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 4
+- **SL Limit:** 1
+- **Use Requirements:** Short Blade, Long Blade, Two-handed Sword Use,
+- **Effect:**  Increases damage.+【Agility】to weapon attack damage. This effect is ongoing until the main process ends.
+- **Critical:** N/A
+
+A skill that takes sword in hand, and attacks the enemy as if dancing
+
+#### Two Sword Style
+*Swordsman Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 3
+- **Use Requirements:** Short Blade, Long Blade Use,
+- **Effect:**  Effective when weapons with【Category】of short blade or long blade are equipped in both the right hand and left hand. Both +SL to target hit checks, and +【SL x2】to damage that use the weapons.
+- **Critical:** N/A
+
+A skill that represents learning the techniques of the two sword style, which uses two swords at the same time.
+```
+```
+### Sworn Knight Skills
+---
+
+#### Guardian Skill
+*Sworn Knight Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 4
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:**  +【SL x2】to【Physical Defense】and【Magic Defense】. This effect is ongoing until the scene ends.
+- **Critical:** N/A
+
+A skill that raises your own defense by swearing to protext your companions.
+
+#### Oath Skill
+*Sworn Knight Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Automatic Success
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** Once per scenario
+- **Effect:** +1D to damage from attacks you perform while the target is in the same scene as you. This effect is ongoing until the scenario ends.
+- **Critical:** N/A
+
+A skill that pledges to battle for the sake of a certain person. If the person you pledged to is close, endless fighting spirit fills your heart.
+
+#### Annihilate Skill
+*Sworn Knight Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 3
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:** +【SL x4】to weapon attack damage. This effect is ongoing until the round ends.
+- **Critical:** N/A
+
+A skill that pledges to to defeat your enemies upon your honor.
+
+### Lancer Skills
+---
+
+#### Leg Sweep
+*Lancer Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Target hit Check
+- **Range/Target:** Self
+- **MP Cost:** 6
+- **SL Limit:** 3
+- **Use Requirements:** Spear Use
+- **Effect:**  Increases damage. +【SL x3】to weapon attack damage. Also if the attack does even 1 point of HP damage to the target,【Slip】is inflicted. This effect is ongoing until the main process ends.
+- **Critical:** N/A
+
+A skill that sweeps with the spear shaft.
+
+\page
+
+#### Restrain
+*Lancer Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Automatic Success
+- **Range/Target:** Close Range, Single Target
+- **MP Cost:** 4
+- **SL Limit:** 3
+- **Use Requirements:** Spear Use
+- **Effect:**  -【SL Dice】to the target's【Action Score】. This effect is ongoing until the round ends.
+- **Critical:** N/A
+
+A skill that utilizes their spear's long reach to stop enemies in their tracks, delaying action.
+
+#### Assault
+*Lancer Class Skill*
+___
+- **Timing:** Move Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 3
+- **Use Requirements:** Spear Use
+- **Effect:**  Increases damage. Performs battle movement, or all-out movement. +【SL x4】to close-quaters attack damage if performing that movement. This effect is ongoing until the main process ends.
+- **Critical:** N/A
+
+A skill that refies one's weapon, and rushes in. The assault's momentum is used to strike enemies down.
+
+### Rune Night Skills
+---
+
+#### Element Seal (Magic)
+*Rune Knight Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  Consumes one【Category:Treasure】item. The weapon attack damage is changed to magic damage having consumed item's corresponding element. This effect is ongoing until the scene ends.
+- **Critical:** N/A
+
+A skill that puts a seal on treasure, enveloping a blade with flames, lightning or such.
+
+#### Weapon Seal (Magic)
+*Rune Knight Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Magic Check
+- **Range/Target:** Close Range, Single Target
+- **MP Cost:** 5
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:**  +【SL x2】to weapon attack damage performed on the target. This effect is ongoing until the scene ends.
+- **Critical:** N/A
+
+A skill that sharpens a blade by putting a seal on the weapon.
+```
+```
+
+#### Armor Seal (Magic)
+*Rune Knight Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Magic Check
+- **Range/Target:** Close Range, Single Target
+- **MP Cost:** 5
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  +【SL x2】to【Physical Defense】and +SL to【Magic Defense】 of the target. This effect is ongoing until the scene ends.
+- **Critical:** N/A
+
+A skill that mitigates threats by putting a seal on armor.
+
+### Crusader Skills
+---
+
+#### Around Cover
+*Crusader Class Skill*
+___
+- **Timing:** 【Covering】
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 4
+- **SL Limit:** 3
+- **Use Requirements:** SL times per Scenario
+- **Effect:**  Use during【Covering】. Gives cover to multiple voluntary characters in the same engage. Covered characters do not receive damage, and the damage you take from covering is a single person's portion. If you were also a target, you ultimately receive double the HP damage
+- **Critical:** N/A
+
+A skill that protects the area.
+
+#### Attack Strengthen Skill
+*Crusader Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** +【SL x4】to weapon attack damage.
+- **Critical:** N/A
+
+A skill that unleashes devastating strikes using crusader techniques
+
+#### Fortress Stance
+*Crusader Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 9
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** +【SL x4】to【Physical Defense】and【Magic Defense】. This effect is ongoing until the scene ends, or you perform movement.
+- **Critical:** N/A
+
+A skill to stop in place and take a stance devoted to defense.
+
+\page
+
+#### Irregular Status Resistance Skill
+*Crusader Class Skill*
+___
+- **Timing:** Cleanup Process
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 3
+- **Use Requirements:** SL times per Scene
+- **Effect:** All status ailments you're inflicted with are cured.
+- **Critical:** N/A
+
+A skill that restores your body's condition by raising your tesistance, fixing your stance, or such.
+
+#### Blood Strike
+*Crusader Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:** Used right before a weapon attack damage roll. Increases damage. Consume【SL x5】points or less of voluntary【HP】. For every point of【HP】consumed, the attack does +1 damage.
+- **Critical:** N/A
+
+A skill that increases the force of a single strike by shaving away at one's life.
+
+#### Successive Strike
+*Crusader Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 8
+- **SL Limit:** 3
+- **Use Requirements:** SL times per Scene
+- **Effect:** Performs two close-quaters attacks from【Devastating Strike】. This【Devastating Strike】does not have a cost, and becomes【Target:Single】. You may attack the same target twice, or attack seperate targets once each.
+- **Critical:** N/A
+
+A skill that unleashes a swift followup attack after 【Devastating Strike】
+
+#### Mastery Skill
+*Crusader Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:** Upon taking this, select one weapon【Category】. Written as【Mastery Skill: Long Blade】add +1D to weapon attack target hit checks that use the selected【Category's】weapon. It's considered to have its own skill, but multiple 【Mastery Skill: ~ ~】cannot be applied at the same time
+- **Critical:** N/A
+
+A Skill to represent the mastery of a weapon.
+```
+```
+### Archpriest Skills 
+---
+
+#### Prayer
+*Archpriest Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  +1D to checks from priest and archpriest skills.
+- **Critical:** N/A
+
+A skill that represents your prayers bringing out even greater power from skills.
+
+#### Protection Strengthen Skill @@@
+*Archpriest Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:**  +【SL x3】 to the effect of【Sacred Shield】
+- **Critical:** N/A
+
+A skill that increases the effects of 【Sacred Shield】 through prayer
+
+#### Scripture Skill (Magic)
+*Archpriest Class Skill*
+___
+- **Timing:** Minor Action
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 7
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  Effective with priest and archpriest skills. +【Spirit】 to the effects of HP recovery and attack damage that use a major action.
+- **Critical:** N/A
+
+A skill that uses words of prayer to bring forth the power of the gods, and increase the effects of magic and skills. Sacred is sometimes added to the names of skills that have their effects amplified from this effect.
+
+#### Crusade Skill
+*Archpriest Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** Self
+- **MP Cost:** N/A
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:**  +【SL x3】to attack damage.
+- **Critical:** N/A
+
+A skill that represents your accumulated training in order to wage a holy war.
+
+#### Sacred Exorcism (Magic)
+*Archpriest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** N/A
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 12
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Can acquire with 1 level in【Exorcism】.Effective when the target is【Classification:Demon】. Performs a magic attack on the target. If the target's ClassLevel(Or Enemy Level) is at or below【ClassLevel + SL +3】, they die. If above【ClassLevel + SL +3】, the attack deals damage of 【(SL+1)Dice + 20】(Piercing Damage).
+- **Critical:** Additional Dice Roll
+
+Magic that destroys demons.
+
+#### Sacred Turn Undead (Magic)
+*Archpriest Class Skill*
+___
+- **Timing:** Passive
+- **Check:** N/A
+- **Range/Target:** 20m, Single Target
+- **MP Cost:** 12
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Can acquire with 3 level in【Turn Undead】.Effective when the target is【Classification:Undead】. Performs a magic attack on the target. If the target's ClassLevel(Or Enemy Level) is at or below【ClassLevel + SL +3】, they die or are knocked unconcious (You decide at time of use). If above【ClassLevel + SL +3】, the attack deals damage of 【(SL+1)Dice + 20】(Piercing Damage).
+- **Critical:** Additional Dice Roll
+
+Magic that destroys that which has no life.
+
+#### Highness Sait Shield
+*Archpriest Class Skill*
+___
+- **Timing:** 【Saint Shield】
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 4
+- **SL Limit:** 1
+- **Use Requirements:** Once per Round
+- **Effect:**  Use at the same time as【Saint Shield】.【Saint Shield】is changed to【Target:Area:Choice】.
+- **Critical:** N/A
+
+A skill that widens【Saint Shield】area by offering a noble prayer.
+
+#### God Blow
+*Archpriest Class Skill*
+___
+- **Timing:** Major Action
+- **Check:** Hit Check
+- **Range/Target:** Close range, Single Target
+- **MP Cost:** 999
+- **SL Limit:** 1
+- **Use Requirements:** N/A
+- **Effect:**  The target dies
+- **Critical:** N/A
+
+A lethal fist that carries a goddess's rage and sorrow.
+
+### Archwizard Skills
+---
+
+#### Extended Incantation Skill
+*Archwizard Class Skill*
+___
+- **Timing:** Setup Process
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 8
+- **SL Limit:** 5
+- **Use Requirements:** N/A
+- **Effect:**  Increases damage. +【SL x5】to magic attack damage, and -10 to 【Action Score】. This effect is ongoing until the round ends, or you move.
+- **Critical:** N/A
+
+A Skill that uses long incantations to raise the force of magic
+
+### Assassin Skills
+---
+
+#### Pierce
+*Thief Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Used right before a weapon attack's damage roll. Increases damage +【(SL) Dice】 to the attack's damage
+- **Critical:** N/A
+
+A skill to deal even greater damage by attacking the opponent's unprotected areas.
+
+### General Skills: Beginner Magic
+---
+
+#### Pierce
+*Thief Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Used right before a weapon attack's damage roll. Increases damage +【(SL) Dice】 to the attack's damage
+- **Critical:** N/A
+
+A skill to deal even greater damage by attacking the opponent's unprotected areas.
+
+### General Skills
+---
+
+#### Pierce
+*Thief Class Skill*
+___
+- **Timing:** Right before a damage roll
+- **Check:** Automatic Success
+- **Range/Target:** Self
+- **MP Cost:** 5
+- **SL Limit:** 3
+- **Use Requirements:** N/A
+- **Effect:**  Used right before a weapon attack's damage roll. Increases damage +【(SL) Dice】 to the attack's damage
+- **Critical:** N/A
+
+A skill to deal even greater damage by attacking the opponent's unprotected areas.
+\page
+## Vocabulary Guide (Fundamentals)
+- ** Fraction Management ** - If a fraction results when dividing numbers, round down as a rule.
+- ** How to Read Dice** -  #D, roll # of dice, 
+
+D66, Roll two dice, with one being the thens place, and the 
+
+other being the ones place, when rolling a D66, decide 
+
+which dice is the tens plance and which is the ones beore 
+
+rolling. The result is between 11-66
+
+- **ROC ** - ROC is an abbreviation of “Roll or Choice”, and represents that it’s fine to use dice to decide displayed entries, or to choose for yourself. Of course, you can decide again even after rolling the dice. When using ROC with a chart, it means to select one entry using the method above. Also, when there are entries with numbers like 00, which can’t be rolled with a dice, it means an entry that must be picked for yourself.
+
+- ** Notation Types ** -  In ‘Konosuba TRPG’, within the book text, the following symbols are used to represent game terms. If these terms are used in a calculation, you should substitute the numbers into the formula.
+
+-Base Ability Scores and Ability Scores are【 】【 】
+
+Example:【 】Base Strength Score【 】【 】Agility【 】
+
+-Skill names, cheat names are 【 】【 】
+
+Example:【 】Devastating Strike【 】
+
+-Element names are 【 】【 】
+Example: 【 】Fire【 】
+
+-Trap names,object names are 【 】
+Example:【 】Pitfall【 】
+
+-Formulas, and words used as game terms are 【 】【 】
+Example:【 】Success score【 】,【 】3D+10【 】
+
+
+- ** Game Master ** -  Abbreviated as GM. The host player in this game. Carries out things like staging the game, dealing with various data, and judging on rules.
+
+- ** Player ** -  Participants other than the GM. Each player participates in the game by creating their own alter ego character.
+
+- ** Origional Work ** -  When “Original work” is written in this book’s text, it refers to the original novel ‘God's Blessing on this Wonderful World!’.
+```
+```
+## Vocabulary Guide (Rules)
+Here, game rules used even among the 'Konosuba TRPG' game terms are explained. We want you to use it when you don't understand a word.
+
+- ** HP ** - Abbreviation for hit points. Called “Life force” in the original work. Represents a character’s physical endurance, which decreases as damage is taken. HP may become negative as a result of being decreased. If HP becomes zero or lower, the character can no longer fight, and has a risk of dying.
+- ** MP ** - Abbreviation for mental points. Called “Magical power” in the original work. Decreases when things like skills are used. Unlike HP, The minimum value is zero.
+- ** NPC ** - Abbreviation for non-player character. Characters the GM oversees that are not PC’s.
+- ** PC ** - Abbreviation for player character. A character that the player operates. Generally one player operates one character.
+- ** Character level ** - A number that represents things like a character’s power, and the wealth of experience from adventures. Generally the higher this is, the more powerful the character. Sometimes abbreviated as CL.
+- ** Class ** - Also called occupation, job, or such, in the original work. Represents the division of roles in places like a battle or in an adventure, like the knight who fights with a sword, or the wizard who fights with magic.
+- ** Base Class ** - The class you can choose during character creation in ‘Konosuba TRPG’ is called a “Base class”.
+- ** Advanced Class ** - Also called advanced occupations in the original work. Classes more specialized than the base classes. Classes you can change to when your character level is 10 or higher.
+- ** Skill ** - Things made into data such as special abilities like battle techniques or magic, talents like opening locks, special characteristics like a keen instinct.
+- ** Experience Points ** - Points used for things like developing PC’s. Given to players, not PC’s. 
+- ** Session ** - One play of ‘Konosuba TRPG’.
+- ** Dice Roll ** - Rolling a dice to decide things like the result of an action or damage.
+- ** Ability Score ** - Numbers that represent things like how powerful a character is, or how smart they are. Split into the seven areas of strength, dexterity, agility, intelligence, perception, spirit, and luck.
+- ** Blessings ** - An ability that represents the possibilities of the PC’s as main characters in a story (session). By using these 【Blessings】, it’s possible to do things like increase the number of dice rolled, or reroll.
+- ** Free Action ** - An action you can use once during your main process, that doesn’t require a minor action or major action.
+- ** Minor Action ** - An action you can use once during a round, that doesn’t require an action check.
+- ** Move Action ** - An action you can use once during a round, that is used for movement.
+- ** Major Action ** - An action you can use once during a round, that requires an action check.
+- ** Round Progress ** - Game progress that is used during battle. Split up into time units called rounds.
+
+\page
+## Vocabulary Guide (World)
+- ** Parrallel World ** - The setting of this work. A world with an atmosphere associated with so-called fantasy games. Unlike present-day Japan, magic exists. Things like civilization and culture can be thought of as Earth in the middle ages.
+- ** Game Time Period ** - The time period this game takes place in is during the first volume of the original work. Specifically the time period when Kazuma and Aqua arrived in the parallel world.
+- ** Town of Axel ** - A town where fledgling adventurers gather. This is the main setting even in the original work. Geographically it’s the furthest from the demon lord’s castle, and the monsters that infest the surroundings are relatively weak. The outer circumference of the town is surrounded by a stone wall, a so-called fortified city.
+- ** Adventurer ** - In a narrow meaning, a single class. In a broad sense, refers to people of the so-called “Adventurer occupation”, who belong to the adventurer’s guild, do things like slay monsters and act as bodyguards for merchants. All of the PCs in this game are adventurers.
+- ** Adventurer's Guild ** - A place that does things like act as an intermediary for adventure requests (Quests), and buys goods that adventurers obtain. A restaurant and bar are also attached. A registration fee of 1,000 eris is required when registering with the guild. Furthermore, the PCs in this game have already paid the fee and been registered.
+- ** Inn ** - Lodging facilities used by many adventurers who don’t have a house in the town of Axel. Relatively expensive compared to in Japan.
+- ** Horse Stable ** - Facilities for keeping horses in the town of Axel. It’s possible for humans to lodge, and compared to an inn can be borrowed at a reasonable price. Because of this, they are used by adventurers who are tight on cash.
+- ** Kingdom of Belzerg ** - The name of the country the town of Axel is in. As the name suggests, is ruled by a king, with nobles existing underneath.
+- ** Goddess Aqua ** - A goddess who oversees guiding those who’ve died young in Japan. Also a goddess of water. Sent those who died in Japan to a parallel world as heroes. This and that happened, and she ended up being sent to a parallel world with Kazuma.
+- ** Axis Believer ** -People who worship Aqua. People outside the Axis church think “It’s full of crazy people, it’s best not to get involved with them”.
+- ** Goddess Eris ** - The goddess of good luck, who gathers the most belief in the parallel world. Also a form of currency in the parallel world.
+- ** Eris Believer ** - People who worship Eris. The most major religion in the parallel world. On the other hand, Axis believers have a fierce opposition to Eris and Eris believers.
+- ** Crimson Demon Clan ** - People with red eyes, who live in the crimson demon village. Have a strong aptitude for being magic users, with innately high magical power and intelligence. Generally speaking have names with a unique naming sense, and many have exaggerated and theatrical speech and behavior.
+- ** Monster ** - Various magical beasts that live in the parallel world. Aside from those like goblins and kobolds, things like cabbage and lettuce
+- ** Demon Lord ** - King of the demons. Leading the demon lord army to invade human countries.
+- ** Demon Lord Army ** - The greatest of the demon lord’s forces. There are eight demons called generals.
+- ** Hero ** - He who defeated the demon lord, or he who seems like he might do it in the future. The reincarnated from Earth have been called “Hero candidates”.
+
+\page
+
+@@@ Frenzy mentioned in Decoy Skill (knight) but never mentioned (Maybe Rage)pg 202
+@@@ Archpriest skill Protection strengthen Skill says it boosts sacred shield but no skill exists, may be saint shield but that already gets boosts in other Archpriest skill 
+\page
+<img 
+  src='https://i.imgur.com/7FzmkQI.png' 
+  style='position:absolute; top:-10px; right:25px; width:750px' />
